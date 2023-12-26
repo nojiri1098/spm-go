@@ -1,4 +1,4 @@
-module github.com/fdaines/spm-go
+module github.com/nojiri1098/spm-go
 
 go 1.21
 
